@@ -22,4 +22,8 @@ public class Pawn extends ChessMan {
     public void enpassant() {
 
     }
+    
+    public void capture(){
+         
+    }
 }
